@@ -1,8 +1,23 @@
-# Code Exercises for BICT Degree, 1st Year 2nd Semester
-These exercises cover programming, data structures, algorithms, and software development to help students improve their coding skills and problem-solving abilities.
-Code Exercises for BICT Degree, 1st Year 2nd Semester
-This repository contains a collection of code exercises that were assigned to students in the BICT (Bachelor of Information and Communication Technology) Degree program at Uva Wellassa University during the 1st year 2nd semester. The exercises cover various topics related to programming, data structures, algorithms, and software development, and are designed to help students develop their coding skills and problem-solving abilities.
+# Data Structures and Algorithms Uva Wellassa University 1.2 Semester Projects
+Welcome to the Data Structures and Algorithms GitHub repository for Uva Wellassa University's 1.2 Semester. This repository serves as a digital library for students enrolled in the BICT Degree program to access resources, code samples, and exercises related to data structures and algorithms.
 
-## Getting Started
+## Contents
+The repository contains code samples, exercises, and data sets related to data structures and algorithms, covering topics such as:
 
-To get started with these exercises, simply clone the repository to your local machine and start working on the exercises in your preferred programming language. The repository is organized into different folders, each of which corresponds to a specific topic or exercise. Within each folder, there are one or more code files, as well as any necessary data or input files.
+- Array and linked list implementations
+- Sorting and searching algorithms
+- Graph algorithms
+- Dynamic programming
+- Divide and conquer algorithms
+## Usage
+To access and use this repository, you can clone it to your local machine by running the following command:
+
+```
+git clone https://github.com/your-username/dsa-uva-wellassa-1.2.git
+```
+You can navigate the repository's folders to access the relevant resources, and use GitHub's pull request feature to submit assignments.
+
+## Course Syllabus and Policies
+For more information on the course syllabus and policies, please refer to the course material provided by your instructor. If you have any questions or issues related to the repository, please reach out to your instructor or teaching assistant.
+
+Happy coding!
