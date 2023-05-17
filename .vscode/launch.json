@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "averagearray",
+      "request": "launch",
+      "mainClass": "averagearray",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "secondLargest",
+      "request": "launch",
+      "mainClass": "secondLargest",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
       "name": "SumofAll",
       "request": "launch",
       "mainClass": "SumofAll",
