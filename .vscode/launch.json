@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SumofAll",
+      "request": "launch",
+      "mainClass": "SumofAll",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "LargestElement",
+      "request": "launch",
+      "mainClass": "LargestElement",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "BooleanExample",
+      "request": "launch",
+      "mainClass": "BooleanExample",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "Boolean",
+      "request": "launch",
+      "mainClass": "Boolean",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
       "name": "FirstJavaprogram",
       "request": "launch",
       "mainClass": "FirstJavaprogram",
