@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "divOperator",
+      "request": "launch",
+      "mainClass": "EX3.divOperator",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "mulOperator",
+      "request": "launch",
+      "mainClass": "EX3.mulOperator",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "subOperator",
+      "request": "launch",
+      "mainClass": "EX3.subOperator",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "addOperator",
+      "request": "launch",
+      "mainClass": "EX3.addOperator",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "convertTemperature",
+      "request": "launch",
+      "mainClass": "EX2.convertTemperature",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "firstBoolean",
+      "request": "launch",
+      "mainClass": "firstBoolean",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "BMI",
+      "request": "launch",
+      "mainClass": "EX2.BMI",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "CircleArea",
+      "request": "launch",
+      "mainClass": "EX2.CircleArea",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "convertNum",
+      "request": "launch",
+      "mainClass": "convertNum",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "mydetails",
+      "request": "launch",
+      "mainClass": "mydetails",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "norprac",
+      "request": "launch",
+      "mainClass": "norprac",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
       "name": "intAscending",
       "request": "launch",
       "mainClass": "intAscending",
