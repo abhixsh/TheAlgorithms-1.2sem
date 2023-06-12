@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringLength",
+      "request": "launch",
+      "mainClass": "StringLength",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
       "name": "divOperator",
       "request": "launch",
       "mainClass": "EX3.divOperator",
