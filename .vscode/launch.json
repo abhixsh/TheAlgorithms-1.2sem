@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "votingEligibility",
+      "request": "launch",
+      "mainClass": "votingEligibility",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
+      "name": "iffun",
+      "request": "launch",
+      "mainClass": "iffun",
+      "projectName": "TheAlgorithms-1.2sem_3f4f2913"
+    },
+    {
+      "type": "java",
       "name": "findString",
       "request": "launch",
       "mainClass": "findString",
